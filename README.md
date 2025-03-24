@@ -4,6 +4,8 @@ Wszystko co powinno się wiedzieć przed zakupem AUTA
 ## Zanim zdecydujesz !!!
 Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o zawrót głowy. W tym miejscu zebrane zostały materiały, które pozwolą na lepsze poznanie rynku motoryzacyjnego i być może przczynią się do podjęcia lepszej decyzji. 
 
+## Historia
+Geneza oraz inspiracja powstania NoweAutoPL
 
 ## Salonowe
 * Wady i Zalety
