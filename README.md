@@ -34,7 +34,7 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
   * USA
 
 
-## Techniczne
+## Tematy Techniczne
 * Silniki
   * Benzynowe
     * Budowa
