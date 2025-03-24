@@ -1,2 +1,71 @@
-# bazawiedzy
-Baza wiedzy
+# Nowe AUTO - Baza Wiedzy
+Wszystko co powinno się wiedzieć przed zakupem AUTA
+
+## Zanim zdecydujesz !!!
+Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o zawrót głowy. W tym miejscu zebrane zostały materiały, które pozwolą na lepsze poznanie rynku motoryzacyjnego i być może przczynią się do podjęcia lepszej decyzji. 
+
+
+## Salonowe
+* Wady i Zalety
+* Salony firmowe
+* Formy zakupu
+* Gwarancje
+* Ubezpieczenie
+* Warto sprawdzić przed zakupem
+
+## Używane
+* Wady i Zalety
+* Komis
+* Auta z problemami
+  * Dzwony
+  * Topielce
+  * Niespodzianki
+* Warto sprawdić przed zakupem
+* Wyszukiwarka
+
+## Portale wystawiające auta
+* Polskie
+  * OTOMOTO.PL
+  * AutoPlac.PL
+  * Inne..
+* Zagraniczne
+  * Europa
+    * AutoMobile.DE
+  * USA
+
+
+## Techniczne
+* Silniki
+  * Benzynowe
+    * Budowa
+  * Wysokoprężne
+    * Budowa
+  * Hybrydowe
+    * Budowa
+  * Elektryczne
+    * Budowa
+* Producenci / Grupy
+  * PSA
+  * VAG
+* Marki
+  * Audi
+  * BMW
+  * Citroen
+  * Fiat
+  * Ford
+  * Peugeot
+  * Seat
+  * Skoda
+  * Volvo
+  * VW
+* Serwis
+
+
+
+# Licencja
+
+
+
+## Kamienie milowe
+* 2025.03 - Start projektu NoweAutoPL
+* 2025.04 - NoweAutoPL Online
