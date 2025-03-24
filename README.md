@@ -48,7 +48,7 @@ Geneza oraz inspiracja powstania NoweAutoPL. Cel do osiągniecia.
   * USA
 
 
-## Tematy Techniczne
+## Tematycznie lub Technicznie
 * Silniki
   * Benzynowe
     * Budowa
@@ -73,6 +73,7 @@ Geneza oraz inspiracja powstania NoweAutoPL. Cel do osiągniecia.
   * Volvo
   * VW
 * Serwis
+* Historie z życia
 
 ## Więcej o tematyce motoryzacyjnej
 ### YouTube
