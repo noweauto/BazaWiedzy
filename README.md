@@ -1,0 +1,2 @@
+# bazawiedzy
+Baza wiedzy
