@@ -4,10 +4,10 @@ Wszystko co powinno się wiedzieć przed zakupem AUTA
 ## Zanim zdecydujesz !!!
 Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o zawrót głowy. W tym miejscu zebrane zostały materiały, które pozwolą na lepsze poznanie rynku motoryzacyjnego i być może przczynią się do podjęcia lepszej decyzji. 
 
-## Historia
-Geneza oraz inspiracja powstania NoweAutoPL
+## Historia i cel
+Geneza oraz inspiracja powstania NoweAutoPL. Cel do osiągniecia. 
 
-## Salonowe
+## Auta fabrycznie nowe (Salonowe)
 * Wady i Zalety
 * Salony firmowe
 * Formy zakupu
@@ -15,7 +15,7 @@ Geneza oraz inspiracja powstania NoweAutoPL
 * Ubezpieczenie
 * Warto sprawdzić przed zakupem
 
-## Używane
+## Auta używane
 * Wady i Zalety
 * Komis
 * Auta z problemami
@@ -23,6 +23,18 @@ Geneza oraz inspiracja powstania NoweAutoPL
   * Topielce
   * Niespodzianki
 * Warto sprawdić przed zakupem
+* Auta importowane z:
+  * Francja
+  * Niemcy
+  * Austria
+  * Belgia
+  * Holandia
+  * Wielka Brytania
+  * Szwajcaria
+  * Szwecja
+  * Włochy
+  * Hiszpania
+  * USA
 * Wyszukiwarka
 
 ## Portale wystawiające auta
