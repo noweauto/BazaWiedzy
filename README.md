@@ -41,7 +41,7 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 * Auta uszkodzone
 * Wyszukiwarka
 
-## :pushpin: Portale wystawiające auta
+## :moneybag: Portale wystawiające auta
 * Polskie
   * [OTOMOTO.PL](https://otomoto.pl)
   * [AutoPlac.PL](https://autoplac.pl)
@@ -80,7 +80,7 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 * Serwis
 * Historie z życia
 
-## Więcej o tematyce motoryzacyjnej
+## :bookmark: Więcej o tematyce motoryzacyjnej
 ### YouTube
 * [M4K - Miłośnicy 4 Kółek]()
 * [Profesor Chris]()
@@ -94,9 +94,9 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 ### Facebook
 * TODO
 
-## Humor
+## :smile: Humor
 
-## Ciekawostki
+## :newspaper: Ciekawostki
 
 
 
