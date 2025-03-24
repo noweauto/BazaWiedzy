@@ -4,8 +4,7 @@ Wszystko co powinno się wiedzieć nie tylko przed zakupem AUTA
 ## Zanim zdecydujesz !!!
 Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o zawrót głowy. W tym miejscu zebrane zostały materiały, które pozwolą na lepsze poznanie rynku motoryzacyjnego i być może przczynią się do podjęcia lepszej decyzji. 
 
-## Historia i cel
-Geneza oraz inspiracja powstania NoweAutoPL. Cel do osiągniecia. 
+## [Historia](https://github.com/noweauto/BazaWiedzy/blob/main/Historia.md#historia) i [Cel](https://github.com/noweauto/BazaWiedzy/blob/main/Historia.md#historia)
 
 ## Auta fabrycznie nowe (Salonowe)
 * Wady i Zalety
