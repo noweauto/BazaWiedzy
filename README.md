@@ -1,14 +1,14 @@
 # Nowe AUTO - Baza Wiedzy
 Wszystko co powinno się wiedzieć nie tylko przed zakupem AUTA
 
-KUPUJ Z GŁOWĄ - [NOWE.AUTO.PL](https://nowe.auto.pl)
+# :rotating_light: KUPUJ Z GŁOWĄ - [NOWE.AUTO.PL](https://nowe.auto.pl)
 
 ## Zanim zdecydujesz !!!
 Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o zawrót głowy. W tym miejscu zebrane zostały materiały, które pozwolą na lepsze poznanie rynku motoryzacyjnego i być może przczynią się do podjęcia lepszej decyzji. 
 
 ## [Historia](https://github.com/noweauto/BazaWiedzy/blob/main/Historia.md#historia) i [Cel](https://github.com/noweauto/BazaWiedzy/blob/main/Cel.md#cel)
 
-## Auta fabrycznie nowe (Salonowe)
+## :blue_car: Auta fabrycznie nowe (Salonowe)
 * Wady i Zalety
 * Salony firmowe
 * Formy zakupu
@@ -16,7 +16,7 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 * Ubezpieczenie
 * Warto sprawdzić przed zakupem
 
-## Auta używane
+## :red_car: Auta używane
 * Wady i Zalety
 * Jak znaleźć dobre auto?
 * Uważaj na ...
@@ -41,7 +41,7 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 * Auta uszkodzone
 * Wyszukiwarka
 
-## Portale wystawiające auta
+## :pushpin: Portale wystawiające auta
 * Polskie
   * [OTOMOTO.PL](https://otomoto.pl)
   * [AutoPlac.PL](https://autoplac.pl)
@@ -53,7 +53,7 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
   * USA
 
 
-## Tematycznie lub Technicznie
+## :gear: Tematycznie lub Technicznie
 * Silniki
   * Benzynowe
     * Budowa
