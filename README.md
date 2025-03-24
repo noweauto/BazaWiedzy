@@ -17,6 +17,8 @@ Geneza oraz inspiracja powstania NoweAutoPL. Cel do osiągniecia.
 
 ## Auta używane
 * Wady i Zalety
+* Jak znaleźć dobre auto?
+* Uważaj na ...
 * Komis
 * Auta z problemami
   * Dzwony
@@ -81,7 +83,7 @@ Geneza oraz inspiracja powstania NoweAutoPL. Cel do osiągniecia.
 * Profesor Chris
 ### Fora internetowe
 * Polskie
-  * https://autokoncik.pl
+  * https://forum.autokoncik.pl
   * https://www.forumsamochodowe.pl/
   * forum mechaników
 * Zagraniczne
