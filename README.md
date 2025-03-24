@@ -20,7 +20,9 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 * Wady i Zalety
 * Jak znaleźć dobre auto?
 * Uważaj na ...
-* Komis
+* Komis i sprzedawcy
+  * Polecani
+  * Pozostali
 * Auta z problemami
   * Dzwony
   * Topielce
