@@ -36,16 +36,18 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
   * Włochy
   * Hiszpania
   * USA
+* Auta uszkodzone
 * Wyszukiwarka
 
 ## Portale wystawiające auta
 * Polskie
-  * OTOMOTO.PL
-  * AutoPlac.PL
+  * [OTOMOTO.PL](https://otomoto.pl)
+  * [AutoPlac.PL](https://autoplac.pl)
   * Inne..
 * Zagraniczne
   * Europa
-    * AutoMobile.DE
+    * [Mobile.DE](https://mobile.de)
+    * []()
   * USA
 
 
@@ -78,13 +80,13 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
 
 ## Więcej o tematyce motoryzacyjnej
 ### YouTube
-* M4K
-* Profesor Chris
+* [M4K - Miłośnicy 4 Kółek]()
+* [Profesor Chris]()
 ### Fora internetowe
 * Polskie
-  * https://forum.autokoncik.pl
-  * https://www.forumsamochodowe.pl/
-  * forum mechaników
+  * [AutoKoncik](https://forum.autokoncik.pl)
+  * [ForumSamochodowe](https://www.forumsamochodowe.pl/)
+  * [Forum mechaników]()
 * Zagraniczne
   * TDOO
 ### Facebook
