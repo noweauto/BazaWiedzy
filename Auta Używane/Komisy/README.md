@@ -1,9 +1,9 @@
 # Komisy i sprzedawcy aut używanych
 
 
-## Polecani
+## Polecani sprzedawcy
 * TODO
 
 
 
-## Pozostali
+## Pozostali (niezweryfikowani)
