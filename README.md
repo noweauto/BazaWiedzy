@@ -60,10 +60,27 @@ Decyzja, a czasem stres, który towarzyszy przy zakupie auta może przyprawić o
   * VW
 * Serwis
 
+## Więcej o tematyce motoryzacyjnej
+### YouTube
+* M4K
+* Profesor Chris
+### Fora internetowe
+* Polskie
+  * https://autokoncik.pl
+  * https://www.forumsamochodowe.pl/
+  * forum mechaników
+* Zagraniczne
+  * TDOO
+### Facebook
+* TODO
+
+## Humor
+
+## Ciekawostki
 
 
-# Licencja
 
+## Licencja
 
 
 ## Kamienie milowe
